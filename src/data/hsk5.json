@@ -1,0 +1,967 @@
+{
+  "translation": {
+    "bai1": {
+      "lessonNumber": 1,
+      "lessonTitle": "Bài 1: Những chi tiết nhỏ trong tình yêu (第一课：爱的细节)",
+      "objectives": "Nắm vững từ vựng và cách dùng 如何、靠、居然 trong chủ đề tình cảm, hôn nhân và sự quan tâm giữa vợ chồng.",
+      "vocabulary": [
+        {
+          "zh": "细节",
+          "pinyin": "xìjié",
+          "hanViet": "Tế tiết",
+          "vi": "Chi tiết",
+          "wordType": "n."
+        },
+        {
+          "zh": "电台",
+          "pinyin": "diàntái",
+          "hanViet": "Điện đài",
+          "vi": "Đài phát thanh",
+          "wordType": "n."
+        },
+        {
+          "zh": "恩爱",
+          "pinyin": "ēn'ài",
+          "hanViet": "Ân ái",
+          "vi": "(Vợ chồng) mặn nồng, yêu thương nhau",
+          "wordType": "adj."
+        },
+        {
+          "zh": "对比",
+          "pinyin": "duìbǐ",
+          "hanViet": "Đối tỉ",
+          "vi": "So sánh, đối chiếu",
+          "wordType": "v."
+        },
+        {
+          "zh": "入围",
+          "pinyin": "rùwéi",
+          "hanViet": "Nhập vi",
+          "vi": "Lọt vào vòng trong, được chọn",
+          "wordType": "v."
+        },
+        {
+          "zh": "评委",
+          "pinyin": "píngwěi",
+          "hanViet": "Bình ủy",
+          "vi": "Giám khảo, ban giám khảo",
+          "wordType": "n."
+        },
+        {
+          "zh": "如何",
+          "pinyin": "rúhé",
+          "hanViet": "Như hà",
+          "vi": "Như thế nào, ra sao",
+          "wordType": "đại từ"
+        },
+        {
+          "zh": "瘫痪",
+          "pinyin": "tānhuàn",
+          "hanViet": "Than hoán",
+          "vi": "Bị liệt, bại liệt",
+          "wordType": "v."
+        },
+        {
+          "zh": "离婚",
+          "pinyin": "líhūn",
+          "hanViet": "Ly hôn",
+          "vi": "Ly hôn",
+          "wordType": "v."
+        },
+        {
+          "zh": "自杀",
+          "pinyin": "zìshā",
+          "hanViet": "Tự sát",
+          "vi": "Tự tử",
+          "wordType": "v."
+        },
+        {
+          "zh": "抱怨",
+          "pinyin": "bàoyuàn",
+          "hanViet": "Bão oán",
+          "vi": "Than phiền, oán trách",
+          "wordType": "v."
+        },
+        {
+          "zh": "爱护",
+          "pinyin": "àihù",
+          "hanViet": "Ái hộ",
+          "vi": "Yêu thương chăm sóc, bảo vệ",
+          "wordType": "v."
+        },
+        {
+          "zh": "婚姻",
+          "pinyin": "hūnyīn",
+          "hanViet": "Hôn nhân",
+          "vi": "Hôn nhân",
+          "wordType": "n."
+        },
+        {
+          "zh": "吵架",
+          "pinyin": "chǎojià",
+          "hanViet": "Sảo giá",
+          "vi": "Cãi nhau",
+          "wordType": "v."
+        },
+        {
+          "zh": "相敬如宾",
+          "pinyin": "xiāngjìng-rúbīn",
+          "hanViet": "Tương kính như tân",
+          "vi": "Kính trọng nhau như khách (vợ chồng hòa thuận)",
+          "wordType": "thành ngữ"
+        },
+        {
+          "zh": "暗暗",
+          "pinyin": "àn'àn",
+          "hanViet": "Ám ám",
+          "vi": "Thầm, ngấm ngầm",
+          "wordType": "adv."
+        },
+        {
+          "zh": "轮",
+          "pinyin": "lún",
+          "hanViet": "Luân",
+          "vi": "Đến lượt, luân phiên",
+          "wordType": "v."
+        },
+        {
+          "zh": "不耐烦",
+          "pinyin": "búnàifán",
+          "hanViet": "Bất nại phiền",
+          "vi": "Mất kiên nhẫn, sốt ruột",
+          "wordType": "adj."
+        },
+        {
+          "zh": "靠",
+          "pinyin": "kào",
+          "hanViet": "Kháo",
+          "vi": "Dựa, tựa vào",
+          "wordType": "v."
+        },
+        {
+          "zh": "肩膀",
+          "pinyin": "jiānbǎng",
+          "hanViet": "Kiên bàng",
+          "vi": "Vai",
+          "wordType": "n."
+        },
+        {
+          "zh": "喊",
+          "pinyin": "hǎn",
+          "hanViet": "Hảm",
+          "vi": "Hét, gọi to",
+          "wordType": "v."
+        },
+        {
+          "zh": "伸",
+          "pinyin": "shēn",
+          "hanViet": "Thân",
+          "vi": "Duỗi ra, đưa ra",
+          "wordType": "v."
+        },
+        {
+          "zh": "手指",
+          "pinyin": "shǒuzhǐ",
+          "hanViet": "Thủ chỉ",
+          "vi": "Ngón tay",
+          "wordType": "n."
+        },
+        {
+          "zh": "歪歪扭扭",
+          "pinyin": "wāiwāiniǔniǔ",
+          "hanViet": "Oai oai nữu nữu",
+          "vi": "Ngoằn ngoèo, nguệch ngoạc",
+          "wordType": "adj."
+        },
+        {
+          "zh": "递",
+          "pinyin": "dì",
+          "hanViet": "Đệ",
+          "vi": "Đưa, chuyển",
+          "wordType": "v."
+        },
+        {
+          "zh": "脑袋",
+          "pinyin": "nǎodai",
+          "hanViet": "Não đại",
+          "vi": "Cái đầu",
+          "wordType": "n."
+        },
+        {
+          "zh": "女士",
+          "pinyin": "nǚshì",
+          "hanViet": "Nữ sĩ",
+          "vi": "Quý bà, cô/bà",
+          "wordType": "n."
+        },
+        {
+          "zh": "叙述",
+          "pinyin": "xùshù",
+          "hanViet": "Tự thuật",
+          "vi": "Kể lại, tường thuật",
+          "wordType": "v."
+        },
+        {
+          "zh": "居然",
+          "pinyin": "jūrán",
+          "hanViet": "Cư nhiên",
+          "vi": "Lại, không ngờ, thế mà",
+          "wordType": "adv."
+        },
+        {
+          "zh": "催",
+          "pinyin": "cuī",
+          "hanViet": "Thôi",
+          "vi": "Giục, thúc giục",
+          "wordType": "v."
+        },
+        {
+          "zh": "等待",
+          "pinyin": "děngdài",
+          "hanViet": "Đẳng đãi",
+          "vi": "Chờ đợi",
+          "wordType": "v."
+        },
+        {
+          "zh": "蚊子",
+          "pinyin": "wénzi",
+          "hanViet": "Văn tử",
+          "vi": "Con muỗi",
+          "wordType": "n."
+        },
+        {
+          "zh": "半夜",
+          "pinyin": "bànyè",
+          "hanViet": "Bán dạ",
+          "vi": "Nửa đêm",
+          "wordType": "n."
+        },
+        {
+          "zh": "叮",
+          "pinyin": "dīng",
+          "hanViet": "Đinh",
+          "vi": "Đốt, chích (côn trùng)",
+          "wordType": "v."
+        },
+        {
+          "zh": "老婆",
+          "pinyin": "lǎopo",
+          "hanViet": "Lão bà",
+          "vi": "Vợ",
+          "wordType": "n."
+        },
+        {
+          "zh": "吵",
+          "pinyin": "chǎo",
+          "hanViet": "Sảo",
+          "vi": "Ồn ào, gây ồn",
+          "wordType": "v./adj."
+        },
+        {
+          "zh": "项",
+          "pinyin": "xiàng",
+          "hanViet": "Hạng",
+          "vi": "Hạng, khoản, mục",
+          "wordType": "lượng từ"
+        },
+        {
+          "zh": "患难与共",
+          "pinyin": "huànnàn-yǔgòng",
+          "hanViet": "Hoạn nạn dữ cộng",
+          "vi": "Cùng chia sẻ hoạn nạn, đồng cam cộng khổ",
+          "wordType": "thành ngữ"
+        }
+      ],
+      "grammar": [
+        {
+          "structure": "如何",
+          "meaning": "Dùng để hỏi hoặc nêu cách thức, phương thức; thường gặp trong văn viết, trang trọng.",
+          "usage": "如何 + động từ/cụm vị ngữ",
+          "examples": [
+            {
+              "zh": "评委叫第一对夫妻说说他俩是如何恩爱的。",
+              "vi": "Ban giám khảo yêu cầu cặp vợ chồng thứ nhất kể xem họ yêu thương nhau như thế nào."
+            }
+          ]
+        },
+        {
+          "structure": "靠",
+          "meaning": "Có thể biểu thị dựa/tựa vào; dựa vào, nhờ cậy; hoặc ở gần, sát bên.",
+          "usage": "靠 + danh từ/địa điểm; 靠 + người/sự vật",
+          "examples": [
+            {
+              "zh": "男人的头靠在女人的肩膀上，睡着了。",
+              "vi": "Đầu người đàn ông tựa vào vai người phụ nữ rồi ngủ thiếp đi."
+            }
+          ]
+        },
+        {
+          "structure": "居然",
+          "meaning": "Phó từ biểu thị sự việc xảy ra ngoài dự đoán, khiến người nói bất ngờ.",
+          "usage": "居然 + động từ/cụm vị ngữ",
+          "examples": [
+            {
+              "zh": "他这么年轻，没想到居然是一位著名的作家。",
+              "vi": "Anh ấy trẻ như vậy, không ngờ lại là một nhà văn nổi tiếng."
+            }
+          ]
+        }
+      ]
+    },
+    "bai2": {
+      "lessonNumber": 2,
+      "lessonTitle": "Bài 2: Để lại một chùm chìa khóa cho bố mẹ (第二课：留串钥匙给父母)",
+      "objectives": "Học từ vựng về gia đình, quê nhà, cuộc sống và tình cảm giữa cha mẹ với con cái; luyện cách dùng các từ ngữ trọng điểm của bài.",
+      "vocabulary": [
+        {
+          "zh": "串",
+          "pinyin": "chuàn",
+          "hanViet": "Xuyến",
+          "vi": "Xâu, chuỗi; xâu chuỗi",
+          "wordType": "lượng từ"
+        },
+        {
+          "zh": "一辈子",
+          "pinyin": "yíbèizi",
+          "hanViet": "Nhất bối tử",
+          "vi": "Suốt đời, cả đời",
+          "wordType": "n."
+        },
+        {
+          "zh": "农村",
+          "pinyin": "nóngcūn",
+          "hanViet": "Nông thôn",
+          "vi": "Nông thôn",
+          "wordType": "n."
+        },
+        {
+          "zh": "屋（子）",
+          "pinyin": "wū(zi)",
+          "hanViet": "Ốc",
+          "vi": "Nhà",
+          "wordType": "n."
+        },
+        {
+          "zh": "断",
+          "pinyin": "duàn",
+          "hanViet": "Đoạn",
+          "vi": "Cai, dứt; cắt đứt",
+          "wordType": "v."
+        },
+        {
+          "zh": "以来",
+          "pinyin": "yǐlái",
+          "hanViet": "Dĩ lai",
+          "vi": "Đến nay, kể từ đó đến nay",
+          "wordType": "từ chỉ thời gian"
+        },
+        {
+          "zh": "姥姥",
+          "pinyin": "lǎolao",
+          "hanViet": "Lão lão",
+          "vi": "Bà ngoại",
+          "wordType": "n."
+        },
+        {
+          "zh": "舅舅",
+          "pinyin": "jiùjiu",
+          "hanViet": "Cữu cữu",
+          "vi": "Cậu",
+          "wordType": "n."
+        },
+        {
+          "zh": "姑姑",
+          "pinyin": "gūgu",
+          "hanViet": "Cô cô",
+          "vi": "Cô",
+          "wordType": "n."
+        },
+        {
+          "zh": "坚决",
+          "pinyin": "jiānjué",
+          "hanViet": "Kiên quyết",
+          "vi": "Kiên quyết",
+          "wordType": "adj."
+        },
+        {
+          "zh": "打工",
+          "pinyin": "dǎgōng",
+          "hanViet": "Đả công",
+          "vi": "Làm thuê, làm công",
+          "wordType": "v."
+        },
+        {
+          "zh": "挣",
+          "pinyin": "zhèng",
+          "hanViet": "Tránh",
+          "vi": "Kiếm (tiền)",
+          "wordType": "v."
+        },
+        {
+          "zh": "县",
+          "pinyin": "xiàn",
+          "hanViet": "Huyện",
+          "vi": "Huyện",
+          "wordType": "n."
+        },
+        {
+          "zh": "套",
+          "pinyin": "tào",
+          "hanViet": "Sáo",
+          "vi": "Bộ, căn, cái",
+          "wordType": "lượng từ"
+        },
+        {
+          "zh": "装修",
+          "pinyin": "zhuāngxiū",
+          "hanViet": "Trang tu",
+          "vi": "Sửa sang, trang hoàng",
+          "wordType": "v."
+        },
+        {
+          "zh": "不得了",
+          "pinyin": "bùdéliǎo",
+          "hanViet": "Bất đắc liễu",
+          "vi": "Cực kỳ, vô cùng",
+          "wordType": "bổ ngữ/trợ từ"
+        },
+        {
+          "zh": "醉",
+          "pinyin": "zuì",
+          "hanViet": "Túy",
+          "vi": "Say (rượu)",
+          "wordType": "v./adj."
+        },
+        {
+          "zh": "强烈",
+          "pinyin": "qiángliè",
+          "hanViet": "Cường liệt",
+          "vi": "Mãnh liệt, kịch liệt",
+          "wordType": "adj."
+        },
+        {
+          "zh": "夜",
+          "pinyin": "yè",
+          "hanViet": "Dạ",
+          "vi": "Ban đêm",
+          "wordType": "n."
+        },
+        {
+          "zh": "锁",
+          "pinyin": "suǒ",
+          "hanViet": "Tỏa",
+          "vi": "Cái khóa; khóa",
+          "wordType": "n./v."
+        },
+        {
+          "zh": "临",
+          "pinyin": "lín",
+          "hanViet": "Lâm",
+          "vi": "Sắp, gần; ngay trước lúc",
+          "wordType": "v./giới từ"
+        },
+        {
+          "zh": "悄悄",
+          "pinyin": "qiāoqiāo",
+          "hanViet": "Tiễu tiễu",
+          "vi": "Lặng lẽ, nhẹ nhàng",
+          "wordType": "adv."
+        },
+        {
+          "zh": "晒",
+          "pinyin": "shài",
+          "hanViet": "Sái",
+          "vi": "Phơi",
+          "wordType": "v."
+        },
+        {
+          "zh": "被子",
+          "pinyin": "bèizi",
+          "hanViet": "Bị tử",
+          "vi": "Mền, chăn",
+          "wordType": "n."
+        },
+        {
+          "zh": "长途",
+          "pinyin": "chángtú",
+          "hanViet": "Trường đồ",
+          "vi": "Đường dài",
+          "wordType": "adj."
+        },
+        {
+          "zh": "冻",
+          "pinyin": "dòng",
+          "hanViet": "Đống",
+          "vi": "Bị cóng, rét",
+          "wordType": "v."
+        },
+        {
+          "zh": "想象",
+          "pinyin": "xiǎngxiàng",
+          "hanViet": "Tưởng tượng",
+          "vi": "Tưởng tượng",
+          "wordType": "v."
+        },
+        {
+          "zh": "灰尘",
+          "pinyin": "huīchén",
+          "hanViet": "Hôi trần",
+          "vi": "Bụi bặm",
+          "wordType": "n."
+        },
+        {
+          "zh": "亮",
+          "pinyin": "liàng",
+          "hanViet": "Lượng",
+          "vi": "Sáng; tỏa sáng",
+          "wordType": "adj./v."
+        },
+        {
+          "zh": "微笑",
+          "pinyin": "wēixiào",
+          "hanViet": "Vi tiếu",
+          "vi": "Mỉm cười; vẻ mặt tươi cười",
+          "wordType": "v./n."
+        },
+        {
+          "zh": "温暖",
+          "pinyin": "wēnnuǎn",
+          "hanViet": "Ôn noãn",
+          "vi": "Ấm áp; sưởi ấm",
+          "wordType": "adj./v."
+        },
+        {
+          "zh": "立刻",
+          "pinyin": "lìkè",
+          "hanViet": "Lập khắc",
+          "vi": "Lập tức",
+          "wordType": "adv."
+        },
+        {
+          "zh": "扑",
+          "pinyin": "pū",
+          "hanViet": "Phốc",
+          "vi": "Bổ nhào; (mùi/hơi) phả vào",
+          "wordType": "v."
+        },
+        {
+          "zh": "卧室",
+          "pinyin": "wòshì",
+          "hanViet": "Ngọa thất",
+          "vi": "Phòng ngủ",
+          "wordType": "n."
+        },
+        {
+          "zh": "铺",
+          "pinyin": "pū",
+          "hanViet": "Phô",
+          "vi": "Trải",
+          "wordType": "v."
+        },
+        {
+          "zh": "飘",
+          "pinyin": "piāo",
+          "hanViet": "Phiêu",
+          "vi": "Bay, thoang thoảng",
+          "wordType": "v."
+        },
+        {
+          "zh": "阵",
+          "pinyin": "zhèn",
+          "hanViet": "Trận",
+          "vi": "Trận, cơn, làn",
+          "wordType": "lượng từ"
+        },
+        {
+          "zh": "感受",
+          "pinyin": "gǎnshòu",
+          "hanViet": "Cảm thụ",
+          "vi": "Cảm nhận; sự cảm nhận",
+          "wordType": "v./n."
+        },
+        {
+          "zh": "流泪",
+          "pinyin": "liúlèi",
+          "hanViet": "Lưu lệ",
+          "vi": "Chảy nước mắt",
+          "wordType": "v."
+        }
+      ],
+      "grammar": [
+        {
+          "structure": "以来",
+          "meaning": "Đặt sau mốc thời gian, biểu thị khoảng thời gian tính từ mốc đó đến thời điểm đang nói.",
+          "usage": "Mốc thời gian + 以来",
+          "examples": [
+            {
+              "zh": "长年以来，父母很少离开老屋。",
+              "vi": "Suốt nhiều năm qua, bố mẹ rất ít khi rời khỏi căn nhà cũ."
+            }
+          ]
+        },
+        {
+          "structure": "临……时／临……前",
+          "meaning": "Biểu thị thời điểm ngay trước khi một sự việc xảy ra.",
+          "usage": "临 + sự việc/thời điểm + 时／前",
+          "examples": [
+            {
+              "zh": "临走那天，父亲从老家赶来送我们。",
+              "vi": "Đúng ngày chúng tôi sắp đi, cha từ quê nhà vội đến tiễn."
+            }
+          ]
+        },
+        {
+          "structure": "立刻",
+          "meaning": "Phó từ chỉ hành động xảy ra ngay tức thì.",
+          "usage": "立刻 + động từ/cụm động từ",
+          "examples": [
+            {
+              "zh": "温暖的气息立刻扑面而来。",
+              "vi": "Hơi ấm lập tức ùa tới."
+            }
+          ]
+        }
+      ]
+    },
+    "bai3": {
+      "lessonNumber": 3,
+      "lessonTitle": "Bài 3: Đời người có lựa chọn, mọi thứ có thể thay đổi (第三课：人生有选择，一切可改变)",
+      "objectives": "Học từ vựng về cuộc sống, công việc, du lịch và lựa chọn cá nhân; luyện cách dùng các từ ngữ trọng điểm của bài.",
+      "vocabulary": [
+        {
+          "zh": "人生",
+          "pinyin": "rénshēng",
+          "hanViet": "Nhân sinh",
+          "vi": "Đời người",
+          "wordType": "n."
+        },
+        {
+          "zh": "工人",
+          "pinyin": "gōngrén",
+          "hanViet": "Công nhân",
+          "vi": "Công nhân",
+          "wordType": "n."
+        },
+        {
+          "zh": "稳定",
+          "pinyin": "wěndìng",
+          "hanViet": "Ổn định",
+          "vi": "Ổn định",
+          "wordType": "adj./v."
+        },
+        {
+          "zh": "待遇",
+          "pinyin": "dàiyù",
+          "hanViet": "Đãi ngộ",
+          "vi": "Sự đãi ngộ",
+          "wordType": "n."
+        },
+        {
+          "zh": "发愁",
+          "pinyin": "fā chóu",
+          "hanViet": "Phát sầu",
+          "vi": "Lo âu, buồn rầu",
+          "wordType": "v."
+        },
+        {
+          "zh": "平静",
+          "pinyin": "píngjìng",
+          "hanViet": "Bình tĩnh",
+          "vi": "Yên ổn, yên ả",
+          "wordType": "adj."
+        },
+        {
+          "zh": "帆船",
+          "pinyin": "fānchuán",
+          "hanViet": "Phàm thuyền",
+          "vi": "Thuyền buồm",
+          "wordType": "n."
+        },
+        {
+          "zh": "撞",
+          "pinyin": "zhuàng",
+          "hanViet": "Chàng",
+          "vi": "Đụng, đâm vào",
+          "wordType": "v."
+        },
+        {
+          "zh": "艘",
+          "pinyin": "sōu",
+          "hanViet": "Tẩu",
+          "vi": "Chiếc, con (tàu/thuyền)",
+          "wordType": "lượng từ"
+        },
+        {
+          "zh": "航行",
+          "pinyin": "hángxíng",
+          "hanViet": "Hàng hành",
+          "vi": "Đi tàu, đi thuyền; đi biển",
+          "wordType": "v."
+        },
+        {
+          "zh": "积蓄",
+          "pinyin": "jīxù",
+          "hanViet": "Tích súc",
+          "vi": "Tiền để dành; dành dụm",
+          "wordType": "n./v."
+        },
+        {
+          "zh": "二手",
+          "pinyin": "èrshǒu",
+          "hanViet": "Nhị thủ",
+          "vi": "Đã qua sử dụng",
+          "wordType": "adj."
+        },
+        {
+          "zh": "彩虹",
+          "pinyin": "cǎihóng",
+          "hanViet": "Thải hồng",
+          "vi": "Cầu vồng",
+          "wordType": "n."
+        },
+        {
+          "zh": "包括",
+          "pinyin": "bāokuò",
+          "hanViet": "Bao quát",
+          "vi": "Bao gồm",
+          "wordType": "v."
+        },
+        {
+          "zh": "疯",
+          "pinyin": "fēng",
+          "hanViet": "Phong",
+          "vi": "Phát điên, hóa điên",
+          "wordType": "v./adj."
+        },
+        {
+          "zh": "辞职",
+          "pinyin": "cízhí",
+          "hanViet": "Từ chức",
+          "vi": "Từ chức",
+          "wordType": "v."
+        },
+        {
+          "zh": "驾驶",
+          "pinyin": "jiàshǐ",
+          "hanViet": "Giá sử",
+          "vi": "Điều khiển (phương tiện)",
+          "wordType": "v."
+        },
+        {
+          "zh": "轮流",
+          "pinyin": "lúnliú",
+          "hanViet": "Luân lưu",
+          "vi": "Luân phiên",
+          "wordType": "v."
+        },
+        {
+          "zh": "钓",
+          "pinyin": "diào",
+          "hanViet": "Điếu",
+          "vi": "Câu (cá)",
+          "wordType": "v."
+        },
+        {
+          "zh": "顿",
+          "pinyin": "dùn",
+          "hanViet": "Đốn",
+          "vi": "Bữa",
+          "wordType": "lượng từ"
+        },
+        {
+          "zh": "海鲜",
+          "pinyin": "hǎixiān",
+          "hanViet": "Hải tiên",
+          "vi": "Hải sản",
+          "wordType": "n."
+        },
+        {
+          "zh": "傍晚",
+          "pinyin": "bàngwǎn",
+          "hanViet": "Bạng vãn",
+          "vi": "Lúc chạng vạng, chiều tối",
+          "wordType": "n."
+        },
+        {
+          "zh": "舒适",
+          "pinyin": "shūshì",
+          "hanViet": "Thư thích",
+          "vi": "Dễ chịu, thoải mái",
+          "wordType": "adj."
+        },
+        {
+          "zh": "干活儿",
+          "pinyin": "gànhuór",
+          "hanViet": "Can hoạt nhi",
+          "vi": "Làm việc",
+          "wordType": "v."
+        },
+        {
+          "zh": "盼望",
+          "pinyin": "pànwàng",
+          "hanViet": "Phán vọng",
+          "vi": "Trông mong, mong mỏi",
+          "wordType": "v."
+        },
+        {
+          "zh": "陆地",
+          "pinyin": "lùdì",
+          "hanViet": "Lục địa",
+          "vi": "Đất liền",
+          "wordType": "n."
+        },
+        {
+          "zh": "各自",
+          "pinyin": "gèzì",
+          "hanViet": "Các tự",
+          "vi": "Từng người, riêng mỗi người",
+          "wordType": "đại từ."
+        },
+        {
+          "zh": "勿",
+          "pinyin": "wù",
+          "hanViet": "Vật",
+          "vi": "Chớ, đừng",
+          "wordType": "phó từ"
+        },
+        {
+          "zh": "时刻",
+          "pinyin": "shíkè",
+          "hanViet": "Thời khắc",
+          "vi": "Thời khắc; luôn luôn",
+          "wordType": "n./adv."
+        },
+        {
+          "zh": "着火",
+          "pinyin": "zháohuǒ",
+          "hanViet": "Tráo hỏa",
+          "vi": "Bốc cháy, cháy",
+          "wordType": "v."
+        },
+        {
+          "zh": "漏",
+          "pinyin": "lòu",
+          "hanViet": "Lậu",
+          "vi": "Rò rỉ; lọt",
+          "wordType": "v."
+        },
+        {
+          "zh": "雷",
+          "pinyin": "léi",
+          "hanViet": "Lôi",
+          "vi": "Sấm",
+          "wordType": "n."
+        },
+        {
+          "zh": "随时",
+          "pinyin": "suíshí",
+          "hanViet": "Tùy thời",
+          "vi": "Bất cứ lúc nào",
+          "wordType": "adv."
+        },
+        {
+          "zh": "闪电",
+          "pinyin": "shǎndiàn",
+          "hanViet": "Thiểm điện",
+          "vi": "Chớp, tia chớp",
+          "wordType": "n."
+        },
+        {
+          "zh": "击",
+          "pinyin": "jī",
+          "hanViet": "Kích",
+          "vi": "Đánh, đập",
+          "wordType": "v."
+        },
+        {
+          "zh": "拥抱",
+          "pinyin": "yōngbào",
+          "hanViet": "Ủng bão",
+          "vi": "Ôm chặt, ôm",
+          "wordType": "v."
+        },
+        {
+          "zh": "海里",
+          "pinyin": "hǎilǐ",
+          "hanViet": "Hải lý",
+          "vi": "Hải lý",
+          "wordType": "đơn vị đo."
+        },
+        {
+          "zh": "台阶",
+          "pinyin": "táijiē",
+          "hanViet": "Đài giai",
+          "vi": "Bậc thềm",
+          "wordType": "n."
+        },
+        {
+          "zh": "未来",
+          "pinyin": "wèilái",
+          "hanViet": "Vị lai",
+          "vi": "Tương lai",
+          "wordType": "n."
+        },
+        {
+          "zh": "太太",
+          "pinyin": "tàitai",
+          "hanViet": "Thái thái",
+          "vi": "Vợ, bà nhà",
+          "wordType": "n."
+        },
+        {
+          "zh": "时代",
+          "pinyin": "shídài",
+          "hanViet": "Thời đại",
+          "vi": "Thời đại",
+          "wordType": "n."
+        }
+      ],
+      "grammar": [
+        {
+          "structure": "各自",
+          "meaning": "Chỉ mỗi người hoặc mỗi bên tự mình; nhấn mạnh tính riêng biệt của từng đối tượng.",
+          "usage": "各自 + động từ；各自的 + danh từ",
+          "examples": [
+            {
+              "zh": "他们在各自的房间里休息。",
+              "vi": "Họ nghỉ ngơi trong phòng riêng của mỗi người."
+            }
+          ]
+        },
+        {
+          "structure": "勿",
+          "meaning": "Từ ngữ mang sắc thái văn viết, dùng để cấm đoán hoặc nhắc nhở; gần nghĩa với 不要.",
+          "usage": "勿 + động từ",
+          "examples": [
+            {
+              "zh": "请勿吸烟。",
+              "vi": "Xin đừng hút thuốc."
+            }
+          ]
+        },
+        {
+          "structure": "包括",
+          "meaning": "Động từ chỉ phạm vi bao gồm các thành phần hoặc nội dung được nêu sau đó.",
+          "usage": "A 包括 B、C 和 D",
+          "examples": [
+            {
+              "zh": "活动包括旅行、钓鱼和游泳。",
+              "vi": "Hoạt động bao gồm du lịch, câu cá và bơi lội."
+            }
+          ]
+        },
+        {
+          "structure": "时刻",
+          "meaning": "Có thể là danh từ chỉ một thời điểm; cũng có thể dùng với nghĩa luôn luôn, thường xuyên.",
+          "usage": "在 + 时刻；时刻 + động từ；时时刻刻 + động từ",
+          "examples": [
+            {
+              "zh": "他时刻提醒自己要注意安全。",
+              "vi": "Anh ấy luôn nhắc nhở bản thân phải chú ý an toàn."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
